@@ -15,8 +15,8 @@
 - Lightroom
 
 **3D Modelling**
-- Cinema 4D
-- 3DS Max
+- Maxon Cinema 4D
+- Autodesk 3DS Max
 
 ## How to reach me?
 
