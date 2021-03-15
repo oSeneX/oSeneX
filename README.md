@@ -21,4 +21,4 @@
 
 ## How to reach me?
 
-**Discord:** @SeneX#1791
+**Discord:** SeneX#1791
