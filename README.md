@@ -10,14 +10,14 @@
 - 📜 Javascript/jQuery
 ## Other knowledge
 **Adobe**
-- After Effects
-- Premiere Pro
-- Photoshop
-- Lightroom
+- After Effects (effects & 2D animations)
+- Premiere Pro (video editing)
+- Photoshop (almost everything)
+- Lightroom (for image correction)
 
 **3D Modelling**
-- Maxon Cinema 4D
-- Autodesk 3DS Max
+- Maxon Cinema 4D (modelling)
+- Autodesk 3DS Max (GTA V interiors & exteriors)
 
 ## How to reach me?
 
