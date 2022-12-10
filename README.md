@@ -3,7 +3,6 @@
 ## About me
 - Full Stack Developer
 - 🐌 Mostly making scripts for FiveM
-- 💰 I've made a living websites, music videos and other filming stuff
 ## Languages
 - 📜 LUA
 - 📜 HTML5
