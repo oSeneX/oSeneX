@@ -1,7 +1,7 @@
 ## 👋 Hi, Welcome to Github page!
 
 ## About me
-- Full Stack Developer
+- "Full Stack Developer"
 - 🐌 Mostly making scripts for FiveM
 ## Languages
 - 📜 LUA
